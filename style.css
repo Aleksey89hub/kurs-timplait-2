@@ -1,0 +1,51 @@
+.container {
+    width: 75%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: ;
+    font-size: 48px;
+    line-height: 64px;
+    color: #ffffff;
+}
+
+body {
+    margin: 0px;
+}
+section {
+    border: 2px solid red;
+}
+
+.home-section {
+    height: 100vh;
+    background-image: url (pyt);
+    background-size: auto 100%;
+    background-position: center;
+}
+
+.home-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.home-content .first-title {
+    font-family: ;
+    font-size: 16px;
+    line-height: 20px;
+    color: #ffffff;
+}
+
+.home-content .button-block button {
+    font-family: ;
+    font-size: 16px;
+    line-height: 20px;
+    color: white;
+    padding: 14px 36px;
+    background: ;
+    box-shadow: ;
+    border-radius: 30px;
+}
